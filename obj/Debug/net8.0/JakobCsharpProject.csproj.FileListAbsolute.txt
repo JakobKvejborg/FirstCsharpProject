@@ -1,0 +1,14 @@
+C:\Users\jakob\JakobCsharpProject\bin\Debug\net8.0\JakobCsharpProject.exe
+C:\Users\jakob\JakobCsharpProject\bin\Debug\net8.0\JakobCsharpProject.deps.json
+C:\Users\jakob\JakobCsharpProject\bin\Debug\net8.0\JakobCsharpProject.runtimeconfig.json
+C:\Users\jakob\JakobCsharpProject\bin\Debug\net8.0\JakobCsharpProject.dll
+C:\Users\jakob\JakobCsharpProject\bin\Debug\net8.0\JakobCsharpProject.pdb
+C:\Users\jakob\JakobCsharpProject\obj\Debug\net8.0\JakobCsharpProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakob\JakobCsharpProject\obj\Debug\net8.0\JakobCsharpProject.AssemblyInfoInputs.cache
+C:\Users\jakob\JakobCsharpProject\obj\Debug\net8.0\JakobCsharpProject.AssemblyInfo.cs
+C:\Users\jakob\JakobCsharpProject\obj\Debug\net8.0\JakobCsharpProject.csproj.CoreCompileInputs.cache
+C:\Users\jakob\JakobCsharpProject\obj\Debug\net8.0\JakobCsharpProject.dll
+C:\Users\jakob\JakobCsharpProject\obj\Debug\net8.0\refint\JakobCsharpProject.dll
+C:\Users\jakob\JakobCsharpProject\obj\Debug\net8.0\JakobCsharpProject.pdb
+C:\Users\jakob\JakobCsharpProject\obj\Debug\net8.0\JakobCsharpProject.genruntimeconfig.cache
+C:\Users\jakob\JakobCsharpProject\obj\Debug\net8.0\ref\JakobCsharpProject.dll
